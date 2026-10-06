@@ -1,16 +1,40 @@
-## Hi there 👋
+# Hi, I'm Sri Mawaddah 👋
 
-<!--
-**srimawaddah824-create/srimawaddah824-create** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a student learning Web Development and exploring the world of coding.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 Student
+- 💻 Learning Web Development
+- 🌱 Currently learning JavaScript, Vue.js, and Go
+- 🧺 Working on web projects such as LaundryKu
+- 📚 Always learning something new
+
+## Skills
+
+- HTML
+- CSS
+- JavaScript
+- Vue.js
+- Git & GitHub
+
+## Projects
+
+### 🧺 LaundryKu
+A web-based laundry management project built while learning frontend and backend development.
+
+**Tech:** Vue.js • Go
+
+### 📚 JavaScript Exercises
+Small projects and exercises to practice JavaScript fundamentals.
+
+### 🌱 More Projects Coming Soon
+I'm still learning and building new projects step by step.
+
+## Currently Learning
+
+```text
+JavaScript
+Vue.js
+API & Backend
+Git & GitHub
