@@ -1,16 +1,17 @@
 # Hi, I'm Sri Mawaddah 👋
 
-I'm a student learning Web Development and exploring the world of coding.
+I'm a student who is learning Web Development and exploring the world of programming.
 
-## About Me
+## 🌷 About Me
 
 - 🎓 Student
 - 💻 Learning Web Development
 - 🌱 Currently learning JavaScript, Vue.js, and Go
 - 🧺 Working on web projects such as LaundryKu
-- 📚 Always learning something new
+- 📚 Always learning and improving my coding skills
+- ✨ Interested in creating useful and simple websites
 
-## Skills
+## 🛠️ Skills
 
 - HTML
 - CSS
@@ -18,23 +19,34 @@ I'm a student learning Web Development and exploring the world of coding.
 - Vue.js
 - Git & GitHub
 
-## Projects
+## 🚀 Projects
 
 ### 🧺 LaundryKu
-A web-based laundry management project built while learning frontend and backend development.
+A laundry website project built while learning Front-End Development, using Vue.js and connected to a backend API.
 
-**Tech:** Vue.js • Go
+### 💻 JavaScript Projects
+A collection of JavaScript assignments and projects created during my learning journey.
 
-### 📚 JavaScript Exercises
-Small projects and exercises to practice JavaScript fundamentals.
+### 🐍 Python Projects
+Small Python projects and exercises for practicing programming fundamentals.
 
-### 🌱 More Projects Coming Soon
-I'm still learning and building new projects step by step.
+## 📚 Currently Learning
 
-## Currently Learning
+- 🌐 Front-End Development
+- 💛 JavaScript
+- 💚 Vue.js
+- 🔗 REST API
+- 🗄️ Database
+- 🌱 Git & GitHub
 
-```text
-JavaScript
-Vue.js
-API & Backend
-Git & GitHub
+## 🎯 My Goals
+
+I want to continue improving my programming skills, create more projects, and become better at Web Development.
+
+## 🌸 My Learning Journey
+
+> Learning step by step, making mistakes, fixing them, and becoming better every day.
+
+---
+
+⭐ Thank you for visiting my GitHub profile!
